@@ -1,0 +1,5 @@
+xcuserdata
+.DS_Store
+/.gitconfig/user
+/sandbox/hello-data/db.sqlite
+/sandbox/hello-data/.build/
